@@ -1,5 +1,7 @@
-# Menu-Integrated-with-Text---jQ
-Menu is sliding from left side and text is reacting to this action - jQuery.
+# Sliding menu
 
+### Menu integrated with text - sliding from the left.
 
-https://kierepkae.github.io/Menu-Integrated-with-Text---jQ/
+- HTML 
+- CSS
+- JavaScript
